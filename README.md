@@ -9,6 +9,8 @@ I build **scalable, reliable software systems** and **CI/CD infrastructure** use
 ## 📕 Latest Blog posts:<br>
 [branch-protection-rules-vs-rulesets-the-right-way-to-protect-your-git-repos](https://dev.to/piyushgaikwaad/branch-protection-rules-vs-rulesets-the-right-way-to-protect-your-git-repos-305m)
 
+<br>
+
 ---
 
 ⭐ If something here helps your work, feel free to use it, discuss it, or contribute.

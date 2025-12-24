@@ -3,8 +3,6 @@
 Senior Software Engineer | Distributed Systems | CI/CD & Developer Productivity  
 Researcher | Open-Source Contributor
 
----
-
 ## 🚀 About Me
 I build **scalable, reliable software systems** and **CI/CD infrastructure** used in large engineering environments. My work sits at the intersection of **industry-scale engineering** and **applied research**, with a focus on **software reliability, automation, and developer productivity**. I also like to explore open-source tools.
 

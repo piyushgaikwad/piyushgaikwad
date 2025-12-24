@@ -13,4 +13,4 @@ I build **scalable, reliable software systems** and **CI/CD infrastructure** use
 
 ---
 
-⭐ If something here helps your work, feel free to use it, discuss it, or contribute.
+⭐ If something here helps your work, feel free to use it, discuss it, or contribute.⭐

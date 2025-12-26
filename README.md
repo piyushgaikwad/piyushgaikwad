@@ -9,6 +9,8 @@ I build **scalable, reliable software systems** and **CI/CD infrastructure** use
 ## 📕 Latest Article:<br>
 [Branch-protection-rules vs rulesets: The right way to protect your git repository](https://dev.to/piyushgaikwaad/branch-protection-rules-vs-rulesets-the-right-way-to-protect-your-git-repos-305m)
 
+[How to Enforce Policies Without Blocking Hotfixes](https://dev.to/piyushgaikwaad/how-to-enforce-policies-without-blocking-hotfixes-7dh)
+
 <br>
 
 ---
